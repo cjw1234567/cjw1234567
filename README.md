@@ -6,7 +6,7 @@ Wellcome to my Page
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw1234567&&layout=compact&count_private=false&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw1234567&&layout=compact&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
