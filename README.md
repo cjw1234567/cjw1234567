@@ -1,7 +1,7 @@
 ### Hi there 👋
 Wellcome to my Page
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=False)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
