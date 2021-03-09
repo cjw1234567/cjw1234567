@@ -1,10 +1,6 @@
 ### Hi there 👋
 Wellcome to my Page
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=False)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 - 🔭 I’m currently working on ... Eating a Delicious raspberry pie
 - 🌱 I’m currently learning ...  How to make a delicious raspberry pie & WEB
