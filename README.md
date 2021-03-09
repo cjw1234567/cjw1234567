@@ -6,11 +6,6 @@ Wellcome to my Page
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjw1234567&layout=compact&count_private=True&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 - 🔭 I’m currently working on ... Eating a Delicious raspberry pie
 - 🌱 I’m currently learning ...  How to make a delicious raspberry pie & WEB
 - 📫 How to reach me: ... <a href="mailto:sdfhfv65@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
