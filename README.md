@@ -10,4 +10,4 @@ Wellcome to my Page
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567)](https://github.com/anuraghazra/github-readme-stats)
