@@ -9,3 +9,4 @@ Wellcome to my Page
 - 😄 Motto: ... Don't be the best,Be the only
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567)](https://github.com/anuraghazra/github-readme-stats)
