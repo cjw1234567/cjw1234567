@@ -8,4 +8,4 @@ Wellcome to my Page
 - 💻 What you can do ...  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 - 😄 Motto: ... Don't be the best,Be the only
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjw1234567&count_private=true&show_icons=true&theme=radical&e&include_all_commits=true)
